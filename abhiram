@@ -2,3 +2,4 @@ he is eight standard
 file undu 
 git checkout file name
 we can send from local to staging 
+git reset file name - it is used to send working are from index or staging are
