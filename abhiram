@@ -4,3 +4,8 @@ git checkout file name
 we can send from local to staging 
 git reset file name - it is used to send working are from index or staging are
 i am creating branch git branch branchname
+VPC
+SUBNETS
+IGW
+RTB
+SG
