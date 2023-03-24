@@ -9,3 +9,8 @@ SUBNETS
 IGW
 RTB
 SG
+ASC
+S3
+Rout53
+cloudfront
+
