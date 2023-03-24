@@ -13,4 +13,6 @@ ASC
 S3
 Rout53
 cloudfront
-
+nat
+nat instant
+peering
